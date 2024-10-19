@@ -85,3 +85,22 @@ let B = 5;
 let Multiply_Two_Numbers = (A * B);
 console.log(Multiply_Two_Numbers);
 
+// # Question(8)......................................
+function Sum(){
+    let Math = 50;
+    let Java = 20;
+    let JavaScript = 100;
+    let Sum = Math + Java + JavaScript;
+    console.log(Sum);
+}
+Sum();
+function Average(){
+    let Math = 50;
+    let Java = 20;
+    let JavaScript = 100;
+    let Sum = Math + Java + JavaScript;
+    let Average = Sum/3;
+    console.log(Average);
+}
+Average();
+
